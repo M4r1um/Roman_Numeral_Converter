@@ -75,7 +75,7 @@ Feel free to use your preferred IDE and its built-in tools for running Java appl
 
 # Usage 
 
-1. Navigate to "File" and "Open" to open a .txt file that has Roman Numerals already added, it will sort the values from least to greatest and and convert them into Arabic Values.
+1. Navigate to "File" and "Open" to open a .txt file that has Roman Numerals already added, it will sort the values from least to greatest and convert them into Arabic Values.
 
 ![Screenshot 2024-06-14 at 12 47 17 AM](https://github.com/M4r1um/Roman_Numeral_Converter/assets/137209510/71c21628-f709-4b92-bd9a-a4d66f747e1f)   ![Screenshot 2024-06-14 at 1 01 24 AM](https://github.com/M4r1um/Roman_Numeral_Converter/assets/137209510/058d7966-707e-4de9-985d-fe81a943cc6b)
 
